@@ -1,5 +1,6 @@
-<h1 align="center">Ali Nabizadeh</h3>
-<h2 align="center">Front-End Developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="1500" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ali+Nabizadeh;Front-End+Developer;"></a>
+</p>
 <h3 align="left">About Me :</h3>
 <p align="left">
   Hi! I am a Front-End developer with skills in HTML, CSS, JavaScript, React js, and Next js. I am 24 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
