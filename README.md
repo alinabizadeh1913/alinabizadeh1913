@@ -1,4 +1,9 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alinabizadeh1913&theme=github)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="1500" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ali+Nabizadeh;Front-End+Developer;"></a>
