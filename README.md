@@ -14,6 +14,9 @@ Due to my fast coding speed, problem-solving skills, and quick learning of compu
 
 My career goals in the future include mastering front-end topics, learning UI/UX, and exploring the exciting world of artificial intelligence. I am always in the process of learning and continuously growing in all of these areas.
 </p>
+
+<hr />
+
 <h3 align="left">My Skills :</h3>
 <p align="left" class="tools">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
