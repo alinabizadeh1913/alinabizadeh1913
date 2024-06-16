@@ -11,7 +11,7 @@ I have acquired my skills through self-study and training courses, especially fr
 
 HTML, CSS, JavaScript, React js, Next js : My main skills that I utilize to build dynamic and responsive web applications.
 
-Sass, Gulp, Git, jQuery, Bootstrap, Zustand : Other tools and frameworks that improve my efficiency and development capabilities.
+Sass, Gulp, Git, jQuery, Bootstrap : Other tools and frameworks that improve my efficiency and development capabilities.
 
 Due to my fast coding speed, problem-solving skills, and quick learning of computer-related topics, I do not consider myself a junior programmer.
 
