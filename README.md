@@ -1,9 +1,11 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="1500" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ali+Nabizadeh;Front-End+Developer;"></a>
-</p>
-<h3 align="left">About Me :</h3>
-<p align="left">
-  Hi! I am a Front-End developer with skills in HTML, CSS, JavaScript, React js, and Next js. I am 24 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer" />
+</h1>
+
+
+# Hi, I'm Ali  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
+A **Front-End developer**  with skills in **HTML**, **CSS**, **JavaScript**, **React js** and **Next js** . I am 24 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
 
 I have acquired my skills through self-study and training courses, especially from 7Learn and Sabz Learn collections. My key skills include:
 
@@ -13,109 +15,61 @@ Sass, Gulp, Git, jQuery, Bootstrap, Zustand : Other tools and frameworks that im
 
 Due to my fast coding speed, problem-solving skills, and quick learning of computer-related topics, I do not consider myself a junior programmer.
 
-My career goals in the future include mastering front-end topics, learning UI/UX, and exploring the exciting world of artificial intelligence. I am always in the process of learning and continuously growing in all of these areas.
-</p>
+My career goals in the future include mastering front-end topics, learning UI/UX, and exploring the exciting world of artificial intelligence. I am always in the process of learning and continuously growing in all of these areas. 
+<h2></h2>
 
-<hr />
+##  Main Skills :
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,sass,jquery,gulp,redux,git,github,vscode&perline=13)](#)
 
-<h3 align="left">My Skills :</h3>
-<p align="left" class="tools">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.datocms-assets.com/98835/1684410508-image-7.png"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img
-      src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560"
-      alt="zustand"
-      width="80"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://github.com/reduxjs/redux/blob/master/logo/README.md"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
+<h2>Soft Skills :</h2>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+      const softSkills = [
+        {
+          "id" : 1,
+          "title" : "Problem-solving"
+        },
+        {
+          "id" : 2,
+          "title" : "Team communication"
+        },
+        {
+          "id" : 3,
+          "title" : "Fast coding"
+        },
+        {
+          "id" : 4,
+          "title" : "Quick learning of new topics"
+        }
+      ]
+      
+</details>
+<h2></h2>
 
-<h3 align="left">Contact :</h3>
-<p align="left" >
+
+
+<h2 align="left">
+  Contact :
+</h2> 
+<h2>
+  <!--
+<a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> -->
 <a href="https://www.instagram.com/ali.nabizadeh.79/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/ali-nabizadeh-884866280/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:alinabizadeh1913@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+</h2>
+
+##  Github Stats :
+
+[![alinabizadeh github stats](https://bad-apple-github-readme.vercel.app/api?username=alinabizadeh1913&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+ <br />
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alinabizadeh1913&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<br />
+
+[![alinabizadeh current streak](https://streak-stats.demolab.com/?user=alinabizadeh1913&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
-
-<hr />
-
-<details>
-  <summary>Soft Skills</summary>
-  
-1. Problem-solving
-2. Team communication
-3. Fast coding
-4. Quick learning of new topics
-</details>
