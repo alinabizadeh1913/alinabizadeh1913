@@ -1,0 +1,29 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # هر روز نیمه‌شب اجرا می‌شود
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game from GitHub Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: alinabizadeh1913
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload generated files
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-graph
+          path: dist
