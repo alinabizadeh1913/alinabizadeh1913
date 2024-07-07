@@ -11,7 +11,7 @@ I have acquired my skills through self-study and training courses, especially fr
 
 HTML, CSS, JavaScript, React js, Next js : My main skills that I utilize to build dynamic and responsive web applications.
 
-Sass, Gulp, Git, jQuery, Bootstrap : Other tools and frameworks that improve my efficiency and development capabilities.
+Zustand, Sass, Gulp, Git, jQuery, Tailwind, Bootstrap : Other tools and frameworks that improve my efficiency and development capabilities.
 
 Due to my fast coding speed, problem-solving skills, and quick learning of computer-related topics, I do not consider myself a junior programmer.
 
@@ -19,7 +19,7 @@ My career goals in the future include mastering front-end topics, learning UI/UX
 <h2></h2>
 
 ##  Main Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,sass,jquery,gulp,webpack,npm,git,github&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,sass,jquery,gulp,npm,git,github&perline=13)](#)
 
 <h2>Soft Skills :</h2>
 
