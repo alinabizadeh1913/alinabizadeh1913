@@ -19,7 +19,7 @@ My career goals in the future include mastering front-end topics, learning UI/UX
 <h2></h2>
 
 ##  Main Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,sass,jquery,gulp,webpack,npm,git,github&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,sass,jquery,gulp,webpack,npm,git,github&perline=13)](#)
 
 <h2>Soft Skills :</h2>
 
