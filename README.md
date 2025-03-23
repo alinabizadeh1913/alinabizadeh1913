@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer;Computer+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer;Software+Engineering+Student" />
 </h1>
 
 
@@ -19,7 +19,7 @@ My career goals in the future include mastering front-end topics, learning UI/UX
 <h2></h2>
 
 ##  Main Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,mui,sass,jquery,gulp,npm,git,github&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,mui,sass,jquery,gulp,npm,git,github,figma&perline=19)](#)
 
 <h2>Soft Skills :</h2>
 
