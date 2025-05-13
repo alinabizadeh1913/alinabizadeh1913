@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer;Software+Engineering+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer;UI/UX+Designer;Software+Engineering+Student" />
 </h1>
 
 
 # Hi, I'm Ali  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A **Front-End developer**  with skills in **HTML**, **CSS**, **JavaScript**, **React js** and **Next js** . I am 24 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
+A **Front-End developer**  with skills in **HTML**, **CSS**, **JavaScript**, **React js** and **Next js** . I am 25 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
 
 I have acquired my skills through self-study and training courses, especially from 7Learn and Sabz Learn collections. My key skills include:
 
