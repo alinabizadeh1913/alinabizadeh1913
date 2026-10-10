@@ -138,11 +138,14 @@ const softSkills: string[] = [
   </a>
 </div>
 
-<!-- ─────────────── 3D CONTRIBUTION SKYLINE ─────────────── -->
-## 🏙️ 3D Contribution Skyline
+<!-- ─────────────── CONTRIBUTION SNAKE ─────────────── -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <a href="https://github.com/alinabizadeh1913">
-    <img src="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/output/github-snake.svg" width="100%" />
+  </picture>
+  <sub>⚙️ Requires the <code>snake.yml</code> workflow.</sub>
 </div>
