@@ -143,6 +143,6 @@ const softSkills: string[] = [
 
 <div align="center">
   <a href="https://github.com/alinabizadeh1913">
-    <img src="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/output/skyline.svg" alt="3D Contribution Skyline" width="100%" />
+    <img src="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" width="100%" />
   </a>
 </div>
