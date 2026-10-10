@@ -1,75 +1,88 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Ali+Nabizadeh;Front-End+Developer;UI/UX+Designer;Software+Engineer" />
-</h1>
+<!-- ============================================================
+     ALI NABIZADEH — GITHUB PROFILE README
+     Theme: github_dark / tokyonight  |  Updated: 2026
+     ============================================================ -->
 
+<!-- ==================== HEADER BANNER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ali%20Nabizadeh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Desktop%20App%20Developer&descAlignY=58&descSize=16" width="100%" />
+</div>
 
-# Hi, I'm Ali  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<!-- ==================== TYPING SVG ==================== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Software+Engineer;Frontend+%26+Desktop+App+Developer;AI+Integration+%26+Prompt+Engineering;UI%2FUX-Aware+%7C+IT+Fundamentals" alt="Typing SVG" />
+  </a>
+</div>
 
-A **Front-End developer**  with skills in **HTML**, **CSS**, **JavaScript**, **React js** and **Next js** . I am 26 years old, hailing from Kerman Province, and I am interested in fields related to information technology. My main focus is on creating attractive and efficient user interfaces.
-
-I have acquired my skills through self-study and training courses, especially from 7Learn and Sabz Learn collections. My key skills include:
-
-HTML, CSS, JavaScript, React js, Next js : My main skills that I utilize to build dynamic and responsive web applications.
-
-Zustand, Sass, Gulp, Git, jQuery, Tailwind, Bootstrap : Other tools and frameworks that improve my efficiency and development capabilities.
-
-Due to my fast coding speed, problem-solving skills, and quick learning of computer-related topics, I do not consider myself a junior programmer.
-
-My career goals in the future include mastering front-end topics, learning UI/UX, and exploring the exciting world of artificial intelligence. I am always in the process of learning and continuously growing in all of these areas. 
-<h2></h2>
-
-##  Main Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,mui,sass,jquery,gulp,npm,git,github,figma&perline=19)](#)
-
-<h2>Soft Skills :</h2>
-
-      const softSkills = [
-        {
-          "id" : 1,
-          "title" : "Problem-solving"
-        },
-        {
-          "id" : 2,
-          "title" : "Team communication"
-        },
-        {
-          "id" : 3,
-          "title" : "Fast coding"
-        },
-        {
-          "id" : 4,
-          "title" : "Quick learning of new topics"
-        }
-      ]
-      
-</details>
-<h2></h2>
-
-
-
-<h2 align="left">
-  Contact :
-</h2> 
-<h2>
-  <!--
-<a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> -->
-<a href="https://www.instagram.com/ali.nabizadeh.79/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/ali-nabizadeh-884866280/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="mailto:alinabizadeh1913@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
-</h2>
-
-##  Github Stats :
-
-[![alinabizadeh github stats](https://bad-apple-github-readme.vercel.app/api?username=alinabizadeh1913&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
- <br />
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alinabizadeh1913&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<!-- ==================== PROFILE VIEWS COUNTER ==================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alinabizadeh1913&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <br />
 
-[![alinabizadeh current streak](https://streak-stats.demolab.com/?user=alinabizadeh1913&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<!-- ==================== INTRO ==================== -->
+## 👋 Hi, I'm Ali
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
+**Software Engineer** with a **B.Sc. in Computer Engineering (Software)**. I specialize in frontend development (**Next.js**, **TypeScript**, **Tailwind**) and **AI-assisted application development**.
+
+🎯 I act as a **technical director for AI-generated code**: I design architecture, integrate modules, and ship production-ready desktop and web applications. I have hands-on experience building and packaging full-featured desktop apps using **Electron**, **SQLite**, and modern tooling.
+
+<br />
+
+<!-- ==================== SKILLS GRID ==================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Frontend & Core
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)
+![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![MUI](https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=007FFF)
+
+### 🖥️ Desktop & Backend
+![Electron](https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=47848F)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+
+### 🤖 AI & Tooling
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Gulp](https://img.shields.io/badge/Gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=CF4647)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+
+<br />
+
+<!-- ==================== SKILL ICONS ==================== -->
+### ⚡ Core Stack (Visual)
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,redux,mui,bootstrap,jquery,electron,nodejs,sqlite,git,github,figma,vite,gulp&perline=10&theme=dark)
+
+</div>
+
+<br />
+
+<!-- ==================== SOFT SKILLS ==================== -->
+## 🧠 Soft Skills
+
+```javascript
+const softSkills = [
+  { id: 1, title: "Problem-solving" },
+  { id: 2, title: "Team communication" },
+  { id: 3, title: "Fast coding & rapid prototyping" },
+  { id: 4, title: "Quick learning of new technologies" },
+  { id: 5, title: "Technical direction for AI-generated code" },
+  { id: 6, title: "Architecture design & module integration" }
+];
