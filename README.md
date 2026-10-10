@@ -123,3 +123,26 @@ const softSkills: string[] = [
 <!-- ─────────────── GITHUB STATS ─────────────── -->
 📊 GitHub Analytics
 <div align="center"> <a href="https://github.com/alinabizadeh1913"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=alinabizadeh1913&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> </a> <a href="https://github.com/alinabizadeh1913"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinabizadeh1913&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=350" alt="Top Languages" /> </a> </div><!-- ─────────────── STREAK ─────────────── --><div align="center"> <a href="https://github.com/alinabizadeh1913"> <img src="https://streak-stats.demolab.com/?user=alinabizadeh1913&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" /> </a> </div>
+
+<!-- ─────────────── ANIMATED GRADIENT BANNER ─────────────── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Nabizadeh&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20%26%20Desktop%20Developer&descAlignY=55&descSize=16" width="100%" />
+</div>
+
+<!-- ─────────────── TERMINAL STATS ─────────────── -->
+## 📊 Terminal Stats
+
+<div align="center">
+  <a href="https://github.com/alinabizadeh1913">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=alinabizadeh1913&theme=tokyonight&headerStyle=mac&typingSpeed=50" alt="Terminal Stats" width="100%" />
+  </a>
+</div>
+
+<!-- ─────────────── 3D CONTRIBUTION SKYLINE ─────────────── -->
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <a href="https://github.com/alinabizadeh1913">
+    <img src="https://raw.githubusercontent.com/alinabizadeh1913/alinabizadeh1913/output/skyline.svg" alt="3D Contribution Skyline" width="100%" />
+  </a>
+</div>
